@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTSMobpro</string>
+    <string-array name="IsiSp">
+        <item>Anna</item>
+        <item>Ben</item>
+        <item>Cindy</item>
+        <item>Dimas</item>
+        <item>Edi</item>
+        <item>Fanny</item>
+    </string-array>
+</resources>
